@@ -13,6 +13,8 @@ public class Workspace extends Gmail{
     public Workspace(String emailId) {
         // The inboxCapacity is equal to the maximum value an integer can store.
 
+
+
     }
 
     public void addMeeting(Meeting meeting){
